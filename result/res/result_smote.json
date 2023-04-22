@@ -1,0 +1,1 @@
+{"LogisticRegression": {"Train": 0.9097777777777779, "best_params": {"pca__n_components": 2, "lr__solver": "lbfgs", "lr__penalty": "l2", "lr__C": 0.01}, "Test": 0.9302325581395349, "Precision": 0.9305768649954697, "Recall": 0.9302325581395349, "MSE": 0.06976744186046512, "R2": 0.7209241952232606, "confusion_matrix": 
